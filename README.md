@@ -1,1 +1,11 @@
-# CIS17B-S25-33477-Assignment1
+# Banking System program 
+- This program is a basic banking system that allows you to mimic minor banking functions
+    - Upon running the program, you will be prompted to select from a menu (1 to create account, 2 to exit)
+    - If you pick create account, you'll be prompted to provide the following:
+        - your name
+        - initial bank deposit 
+    - After account creation, you will be prompted a new menu where you can choose from the following:
+      - Deposit: deposit funds into your account
+      - Withdraw: withdraw funds from your account
+      - View Balance: view the current balance within your account
+      - Exit: end the program and delete current memory
